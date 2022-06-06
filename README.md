@@ -9,3 +9,4 @@ Hello! I am interested in machine learning, physics, and software development! I
 
 - [MyGrad](https://github.com/rsokl/MyGrad): Drop-in automatic differentiation for NumPy
 - [noggin](https://github.com/rsokl/noggin): A simple tool for logging and plotting metrics in real time
+- [custom_inherit](https://github.com/rsokl/custom_inherit): inheriting and merging docstrings in customizable ways (my first ever open source project!)
