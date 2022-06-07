@@ -2,7 +2,7 @@ Hello! I am interested in machine learning, physics, and software development! I
 
 ### Libraries for accelerating and improving ML research
 
-- [hydra-zen](https://github.com/mit-ll-responsible-ai/hydra-zen): Making Hydra more pythonic, and easier to use at-scale for ML workflows and expriments
+- [hydra-zen](https://github.com/mit-ll-responsible-ai/hydra-zen): Making Hydra more pythonic and easier to use at-scale for ML workflows and expriments
 - [responsible-ai-toolbox](https://github.com/mit-ll-responsible-ai/responsible-ai-toolbox): PyTorch-centric library for evaluating and enhancing the robustness of AI technologies.
 
 ### Other open source projects
