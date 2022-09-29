@@ -1,4 +1,4 @@
-Hello! I do work in the areas of machine learning, physics, and software development. I also work on improving methods for testing for scientific/research software, and am a maintainer for [the Hypothesis testing library](https://hypothesis.readthedocs.io/en/latest/). I am passionate about education, and created the CogWorks course at the MIT Beaver Works Summer Institute as well as the website [Python Like You Mean It](https://www.pythonlikeyoumeanit.com/). 
+Hello! I do work in the areas of machine learning, physics, and software development. I also work on improving methods for testing scientific/research software, and am a maintainer for [the Hypothesis testing library](https://hypothesis.readthedocs.io/en/latest/). I am passionate about education, and created the CogWorks course at the MIT Beaver Works Summer Institute as well as the website [Python Like You Mean It](https://www.pythonlikeyoumeanit.com/). 
 
 ### Libraries for accelerating and improving ML research
 
